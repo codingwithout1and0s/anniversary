@@ -1,0 +1,9 @@
+.ComplimentContainer {
+  max-width: 100ch;
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  font-size: 0.75rem;
+  font: italic;
+  padding: 0 1rem;
+}

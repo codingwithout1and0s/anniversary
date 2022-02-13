@@ -1,15 +1,9 @@
 import "./closer.css";
-import LandingIMG from "../../../public/landing.jpg";
 
 export default function Closer() {
   return (
     <div
       className="CloserContainer"
-      style={{
-        backgroundImage: `url(${LandingIMG})`,
-        backgroundSize: "cover",
-        backgroundRepeat: "no-repeat"
-      }}
     >
       <p className="message">
         A vintage romance collecting passion and extersential being is really

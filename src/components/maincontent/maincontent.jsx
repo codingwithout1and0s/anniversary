@@ -1,5 +1,6 @@
 import "./maincontent.css";
 import Header from "../header/header";
+import Hero from "../hero/hero";
 import Card from "../infocard/infocard";
 import Compliment from "../compliment/compliment";
 import Signature from "../signature/signature";
@@ -11,6 +12,7 @@ export default function MainContent() {
   return (
     <div className="MainContainer">
       <Header />
+      <Hero />
       <h1>Meet Steve</h1>
       <Card id={0} />
       <p className="imgCredit">Photo by Unslpash</p>

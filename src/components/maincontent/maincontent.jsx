@@ -11,9 +11,11 @@ export default function MainContent() {
   return (
     <div className="MainContainer">
       <Header />
+      <h1>Meet Steve</h1>
       <Card id={0} />
       <p className="imgCredit">Photo by Unslpash</p>
       <Compliment />
+      <h1>Meet Michelle</h1>
       <Card id={1} />
       <Signature />
       <Testimonials />

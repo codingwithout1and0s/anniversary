@@ -1,0 +1,21 @@
+.SignatureContainer {
+  padding: 1rem;
+  margin: 2rem 0;
+}
+
+.SignatureContainer > h1 {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.SignatureContainer > HR {
+  font-weight: thin;
+  position: relative;
+}
+
+.delicateHR {
+  width: 120px;
+  border: 2px solid rgba(60, 151, 106);
+  position: absolute;
+  top: -10px;
+}

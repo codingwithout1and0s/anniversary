@@ -1,0 +1,36 @@
+.FooterContainer {
+  width: 100%;
+  height: 200px;
+  background-color: rgb(27, 27, 27);
+  color: white;
+  display: flex;
+  font-size: 0.8rem;
+  position: relative;
+}
+
+.linkBar {
+  display: flex;
+  justify-content: space-around;
+}
+
+.linkBar li {
+  padding-left: 1rem;
+  margin-bottom: 5px;
+}
+
+.ft-legal {
+  width: 100%px;
+  background-color: rgb(22, 22, 22);
+  position: absolute;
+  bottom: 0;
+  display: flex;
+
+  margin-top: 1rem;
+  border: 1px solid red;
+}
+.ft-legal-list {
+  flex-direction: row;
+}
+.ft-legal-list li:last-child {
+  flex-grow: 2;
+}

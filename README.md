@@ -1,2 +1,0 @@
-# anniversary
-Created with CodeSandbox

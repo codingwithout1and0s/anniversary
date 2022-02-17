@@ -1,4 +1,5 @@
 import "./footer.css";
+import logo from "../../../public/cat-icon.jpg";
 
 export default function Footer() {
   return (
@@ -15,6 +16,9 @@ export default function Footer() {
           <li>About Me</li>
           <li>Journal</li>
           <li>Contact</li>
+        </ul>
+        <ul>
+          <img src={logo} alt="" />
         </ul>
       </div>
 

@@ -12,12 +12,18 @@
 .linkBar {
   display: flex;
   justify-content: space-around;
-  align-items: flex-start;
 }
 
 .linkBar li {
   padding-left: 1rem;
   margin-bottom: 5px;
+  font-size: 0.8em;
+}
+
+.linkBar ul:nth-child(3) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .ft-legal {

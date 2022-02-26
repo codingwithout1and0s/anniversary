@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 *,
 *::before,
 *::after {
-   box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -11,25 +10,14 @@ body {
   background-color: rgb(250, 250, 250);
   margin: 0;
   padding: 0;
-=======
-body {
-  font-family: "Montserrat", sans-serif;
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  max-width: 100vw;
->>>>>>> 4b6d864ce6bef9f42cc46a372f632b07bfdf0b70
 }
 
 ul {
   list-style: none;
 }
-<<<<<<< HEAD
 
 .App {
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
-=======
->>>>>>> 4b6d864ce6bef9f42cc46a372f632b07bfdf0b70

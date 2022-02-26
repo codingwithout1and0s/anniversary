@@ -1,5 +1,5 @@
 import "./footer.css";
-import logo from "../../resources/cat-icon.png";
+import logo from "../../resources/logo.png";
 
 export default function Footer() {
   return (

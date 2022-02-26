@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 import "./footer.css";
-import logo from "../../resources/cat-icon.jpg";
+import logo from "../../resources/cat-icon.png";
 
 export default function Footer() {
   return (

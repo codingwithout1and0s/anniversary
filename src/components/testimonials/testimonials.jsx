@@ -24,7 +24,7 @@ export default function Testimonials() {
         "https://th.bing.com/th/id/R.68d55aa4711164caeaf6a7e6719b87ae?rik=%2bWTh1%2bwnZXecpQ&pid=ImgRaw&r=0",
       person: "Rob Lowe",
       testimonial:
-        "I was paid to leave a testimonial. Go team um... Steve-Michelle?"
+        "I was paid to leave a testimonial. Go team um... Thang-Ngoc?"
     }
   ];
 

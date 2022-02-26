@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .ComplimentContainer {
   max-width: 100ch;
   display: flex;
@@ -7,3 +8,14 @@
   font: italic;
   padding: 0 1rem;
 }
+=======
+.ComplimentContainer {
+  max-width: 100ch;
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  font-size: 0.75rem;
+  font: italic;
+  padding: 0 1rem;
+}
+>>>>>>> 4b6d864ce6bef9f42cc46a372f632b07bfdf0b70

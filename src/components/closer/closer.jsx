@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import "./closer.css";
 
 export default function Closer() {
@@ -20,20 +19,3 @@ export default function Closer() {
     </div>
   );
 }
-=======
-import "./closer.css";
-
-export default function Closer() {
-  return (
-    <div
-      className="CloserContainer"
-    >
-      <p className="message">
-        A vintage romance collecting passion and extersential being is really
-        love at first sight in a world full of gloom. The wild landscapes of
-        these two are perfect example of affection of their engagment.
-      </p>
-    </div>
-  );
-}
->>>>>>> 4b6d864ce6bef9f42cc46a372f632b07bfdf0b70

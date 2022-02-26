@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import "./compliment.css";
 
 export default function Compliment() {
@@ -13,19 +12,3 @@ export default function Compliment() {
     </div>
   );
 }
-=======
-import "./compliment.css";
-
-export default function Compliment() {
-  return (
-    <div className="ComplimentContainer">
-      <h1>You are the best moments of my life</h1>
-      <p className="passage">
-        I think everyday how thankful I am for having you. I am thankful for the
-        fun we have, the experiences we share. I am thankful for the lessons
-        you've taught me. I am happy when I know you are happy.
-      </p>
-    </div>
-  );
-}
->>>>>>> 4b6d864ce6bef9f42cc46a372f632b07bfdf0b70
